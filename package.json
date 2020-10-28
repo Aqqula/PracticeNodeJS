@@ -1,0 +1,27 @@
+{
+  "name": "PracticeNodeJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "startPath": "nodemon path.js",
+    "startFS": "nodemon FS.js",
+    "startOS": "nodemon OS.js",
+    "startHTTP": "nodemon http.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aqqula/PracticeNodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aqqula/PracticeNodeJS/issues"
+  },
+  "homepage": "https://github.com/Aqqula/PracticeNodeJS#readme",
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
